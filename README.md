@@ -16,10 +16,10 @@ A modern React-based web application for interacting with the Stellar blockchain
 ### Application Screenshots
 
 #### Wallet Connected State
-![Wallet Connected State](./wallet connected state.png)
+![Wallet Connected State](https://github.com/welson-ai/BELT-1/raw/main/wallet%20connected%20state.png)
 
 #### Wallet Balance Display
-![Wallet Balance Display](./wallet balance.png)
+![Wallet Balance Display](https://github.com/welson-ai/BELT-1/raw/main/wallet%20balance.png)
 
 ---
 

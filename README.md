@@ -1,5 +1,28 @@
 # BELT-1 Stellar Testnet Wallet
 
+## Submission Requirements
+
+### Project Overview
+A modern React-based web application for interacting with the Stellar blockchain using Freighter wallet integration. Built with Vite for fast development and deployment.
+
+### Key Features Implemented
+- **Wallet Integration**: Seamless connection to Freighter wallet
+- **Balance Display**: Real-time XLM balance from Stellar testnet
+- **Send Transactions**: Send XLM to any Stellar address
+- **Transaction History**: View transaction details with explorer links
+- **Error Handling**: Comprehensive error states and user feedback
+- **Responsive Design**: Clean, mobile-friendly interface
+
+### Application Screenshots
+
+#### Wallet Connected State
+![Wallet Connected State](./wallet%20connected%20state.png)
+
+#### Wallet Balance Display
+![Wallet Balance Display](./wallet%20balance.png)
+
+---
+
 A modern React-based web application for interacting with the Stellar blockchain using Freighter wallet integration. Built with Vite for fast development and deployment.
 
 ## Features

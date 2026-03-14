@@ -2,6 +2,14 @@
 
 ## Submission Requirements
 
+### Application Screenshots
+
+#### Wallet Connected State
+![Wallet Connected State](public/connected.png)
+
+#### Wallet Balance Display
+![Wallet Balance Display](public/balance.png)
+
 ### Project Overview
 A modern React-based web application for interacting with the Stellar blockchain using Freighter wallet integration. Built with Vite for fast development and deployment.
 
@@ -13,13 +21,6 @@ A modern React-based web application for interacting with the Stellar blockchain
 - **Error Handling**: Comprehensive error states and user feedback
 - **Responsive Design**: Clean, mobile-friendly interface
 
-### Application Screenshots
-
-#### Wallet Connected State
-![Wallet Connected State](public/wallet connected state.png)
-
-#### Wallet Balance Display
-![Wallet Balance Display](public/wallet balance.png)
 
 ---
 

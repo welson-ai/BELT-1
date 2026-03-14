@@ -1,8 +1,8 @@
-# 🌟 BELT-1 Stellar Testnet Wallet
+# BELT-1 Stellar Testnet Wallet
 
 A modern React-based web application for interacting with the Stellar blockchain using Freighter wallet integration. Built with Vite for fast development and deployment.
 
-## 🚀 Features
+## Features
 
 - **Wallet Integration**: Seamless connection to Freighter wallet
 - **Balance Display**: Real-time XLM balance from Stellar testnet
@@ -11,7 +11,7 @@ A modern React-based web application for interacting with the Stellar blockchain
 - **Error Handling**: Comprehensive error states and user feedback
 - **Responsive Design**: Clean, mobile-friendly interface
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: React 19.2.4 with Vite 8.0.0
 - **Blockchain**: Stellar SDK for blockchain interactions
@@ -19,13 +19,13 @@ A modern React-based web application for interacting with the Stellar blockchain
 - **Styling**: Custom CSS with modern design principles
 - **Network**: Stellar Testnet (for safe testing)
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Node.js 18+ installed
 - Freighter browser extension installed
 - Freighter configured for Stellar Testnet
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -46,7 +46,7 @@ A modern React-based web application for interacting with the Stellar blockchain
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 stellar-wallet/
@@ -72,7 +72,7 @@ stellar-wallet/
 └── README.md                   # This file
 ```
 
-## 🔧 Component Architecture
+## Component Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -96,7 +96,7 @@ stellar-wallet/
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## 🔄 Data Flow
+## Data Flow
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -117,7 +117,7 @@ stellar-wallet/
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -156,7 +156,7 @@ npm run dev
 
 Open `http://localhost:5173` in your browser.
 
-## 🎯 Usage Guide
+## Usage Guide
 
 ### Connecting Wallet
 
@@ -178,7 +178,7 @@ Open `http://localhost:5173` in your browser.
 4. Confirm transaction in Freighter popup
 5. View transaction result with explorer link
 
-## 🔌 API Integration
+## API Integration
 
 ### Freighter API v1.7.1
 
@@ -196,14 +196,14 @@ Integration with Stellar blockchain for:
 - Transaction building and signing
 - Testnet network operations
 
-## 🛡️ Security Considerations
+## Security Considerations
 
 - **Testnet Only**: Application only connects to Stellar testnet
 - **Client-Side**: All operations happen in the browser
 - **No Private Keys**: Private keys never leave Freighter wallet
 - **Secure Connections**: Uses HTTPS for all API calls
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -229,7 +229,7 @@ Open browser console (F12) to see detailed logs:
 - API response details
 - Transaction signing results
 
-## 📦 Build & Deploy
+## Build & Deploy
 
 ### Build for Production
 
@@ -249,7 +249,7 @@ npm run preview
 npm run lint
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -257,11 +257,11 @@ npm run lint
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Useful Links
+## Useful Links
 
 - [Stellar Documentation](https://developers.stellar.org/)
 - [Freighter Wallet](https://www.freighter.app/)
@@ -269,7 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Stellar Friendbot](https://friendbot.stellar.org/)
 - [Vite Documentation](https://vite.dev/)
 
-## 📞 Support
+## Support
 
 If you encounter any issues or have questions:
 
@@ -279,4 +279,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Built with ❤️ for the Stellar ecosystem**
+**Built with love for the Stellar ecosystem**
